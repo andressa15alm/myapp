@@ -1,6 +1,6 @@
-# myapp
+# My App
 
-A new Flutter project.
+Projeto desenvolvido para a meteria de desenvolvimento web do curso talento tech.
 
 ## Getting Started
 
